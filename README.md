@@ -42,7 +42,7 @@ Der Wunsch vom Gerald war Radio zu hören, daher habe ich ein Grid erstellt für
 Die einstellungen vom Webradio
 <img width="788" alt="Screenshot 2023-03-27 214329" src="https://user-images.githubusercontent.com/82451150/228060536-a28598ef-e9dd-467a-a34d-8f98b842ad6a.png">
 
-Für die umgebungsteuerung habe ich folgenden Einstellungen verwendet
+Für die Umgebungsteuerung habe ich folgenden Einstellungen verwendet
 
 <img width="755" alt="Screenshot 2023-03-27 214520" src="https://user-images.githubusercontent.com/82451150/228060956-8a77f8ea-148f-408b-994c-febf60ff4029.png">
 
