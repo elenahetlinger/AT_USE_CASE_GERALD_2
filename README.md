@@ -27,7 +27,7 @@ So hat man gleizeitig die möglichkeit dem Laptop mit eine Kameramaus zu steuere
 
 <img width="472" alt="Screenshot 2023-03-27 214709" src="https://user-images.githubusercontent.com/82451150/228059258-3b440d26-370b-43c1-92f8-e4e671fe928f.png">
 
-Hier sind die Properties vom OpenHab zum erkennen.
+Hier sind die Properties vom OpenHab zum erkennen. Die funktionieren in der FH im Smart Home Labor.
 
 <img width="234" alt="Screenshot 2023-03-27 223058" src="https://user-images.githubusercontent.com/82451150/228059472-3250734d-30e9-4917-9a5d-efee8bf9c9be.png">
 
